@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/michal-lipski/mongodb
+  ref: master
+  sha: 08b790139556d05ac2a6f6af1f992dd68c4a7cdf
+  specs:
+    mongodb (0.1.0)
+
+DEPENDENCIES
+  mongodb (>= 0)
+
